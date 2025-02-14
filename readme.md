@@ -1,5 +1,7 @@
 # Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition
 
+> This repository is official implementation for [Enhancing Tampered Text Detection Through Frequency Feature Fusion and Decomposition](https://link.springer.com/chapter/10.1007/978-3-031-73414-4_12), ECCV 2024.
+
 We introduce a Feature Fusion and Decomposition Network (FFDN) that combines a Visual Enhancement Module (VEM) with a Wavelet-like Frequency Enhancement (WFE). The VEM makes tampering traces visible while preserving the integrity of original RGB features using zero-initialized convolutions. Meanwhile, the WFE decomposes the features to explicitly retain high-frequency details that are often overlooked during downsampling, focusing on small but critical tampering clues.
 ![assets/framework.png](assets/framework.png)
 # Prepare Dataset
