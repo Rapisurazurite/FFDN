@@ -66,7 +66,7 @@ For fair comparison, we replace 3 times compression with 1 time compression, bec
 
 This project builds upon several open-source projects and datasets:
 
-[MMDetection](https://github.com/open-mmlab/mmsegmentation): We leverage the MMSegmentation framework for our model implementation and training pipeline. Their modular design and extensive tools greatly facilitated our research.
+[MMSeg](https://github.com/open-mmlab/mmsegmentation): We leverage the MMSegmentation framework for our model implementation and training pipeline. Their modular design and extensive tools greatly facilitated our research.
 
 [DocTamper](https://github.com/qcf-568/DocTamper): We utilize the DocTamper dataset and build upon their baseline methods. Their work in document tampering detection has been instrumental in advancing this field.
 
